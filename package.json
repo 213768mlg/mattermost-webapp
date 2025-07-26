@@ -49,7 +49,7 @@
     "redux-persist-transform-filter": "0.0.18",
     "reselect": "3.0.1",
     "smoothscroll-polyfill": "0.4.3",
-    "superagent": "3.8.3",
+    "superagent": "10.2.2",
     "twemoji": "11.0.1",
     "url-search-params-polyfill": "4.0.1",
     "webrtc-adapter": "6.3.2",
